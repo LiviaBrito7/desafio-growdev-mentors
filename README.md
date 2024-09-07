@@ -23,12 +23,15 @@ API para gerenciamento de mentores utilizando **Laravel 10** e **Sanctum** para 
 1. **Clone o repositório**:
 
    ```bash
+   https://github.com/LiviaBrito7/desafio-growdev-mentors
+   ```
+   
 ## Configuração
 
 1. Navegue até o diretório do projeto e instale as dependências:
 
     ```bash
-    cd nome-do-projeto
+    cd desafio-growdev-mentors
     composer install
     ```
 
